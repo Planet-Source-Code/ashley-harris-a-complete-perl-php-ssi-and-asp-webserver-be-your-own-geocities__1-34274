@@ -1,0 +1,16 @@
+*** Version 1.1.1 ***
+* I fixed a vary minor bug in the admin.php file
+*** Version 1.1.0 ***
+* I fixed some minor bugs with showing posters e-mail addresses
+*** Version 1.0.0 ***
+* I added an easy to use Admin page
+* I added support for multiple moderaters
+*** Version 0.2.1 ***
+* I added smile support
+*** Version 0.1.1 ***
+* I added support for HTML Tags
+* I added support for stripping HTML Tags
+*** Version 0.0.2 ***
+* I fixed some errors in the code
+*** Version 0.0.1 ***
+* I fianlly got a base done after months of development

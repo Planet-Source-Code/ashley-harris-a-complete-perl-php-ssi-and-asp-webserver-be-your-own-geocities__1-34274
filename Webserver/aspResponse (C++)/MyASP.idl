@@ -1,0 +1,43 @@
+// MyASP.idl : IDL source for MyASP.dll
+//
+
+// This file will be processed by the MIDL tool to
+// produce the type library (MyASP.tlb) and marshalling code.
+
+import "oaidl.idl";
+import "ocidl.idl";
+	[
+		object,
+		uuid(C0B0F42E-33F2-4F70-8246-B0D3901730AE),
+		dual,
+		helpstring("IResponse Interface"),
+		pointer_default(unique)
+	]
+	interface IResponse : IDispatch
+	{
+		[id(1), helpstring("method Write")] HRESULT Write([in] BSTR bstrText);
+		[propget, id(2), helpstring("property ResponseBuffer")] HRESULT ResponseBuffer([out, retval] BSTR *pVal);
+		[id(3), helpstring("method Clear")] HRESULT Clear();
+		[id(4), helpstring("method End")] HRESULT End();
+		[propget, id(5), helpstring("property CanContinue")] HRESULT CanContinue([out, retval] BOOL *pVal);
+	};
+
+[
+	uuid(A9B6A858-B7D1-49A3-A7CF-DAF0E612470A),
+	version(1.0),
+	helpstring("MyASP 1.0 Type Library")
+]
+library MYASPLib
+{
+	importlib("stdole32.tlb");
+	importlib("stdole2.tlb");
+
+	[
+		uuid(A1D85791-663F-45A6-B5CB-988193F60F15),
+		helpstring("Response Class")
+	]
+	coclass Response
+	{
+		[default] interface IResponse;
+	};
+};

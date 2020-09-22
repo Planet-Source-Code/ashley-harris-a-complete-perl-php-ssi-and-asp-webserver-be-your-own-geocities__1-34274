@@ -1,0 +1,78 @@
+Although the entire vb project, with the exception of the mx resolver and some of the asp code is my own work, there are still many people out there who helped in some way or another.
+
+
+
+In completely random order:
+
+Mike Doonan, for giving me his ASP parser, I did change part of it, and add the form posting, and fixed several bugs, but asp should really be credited to him (It was his Idea and he sent me his code, which is like the only other code in the universe that even attempts to evaluate ASP scripts (to my knowledge)
+
+Gregg Housh, who wrote the mx lookup control (smtp-less email used in sendmail). I have been wanting to find out how to do this for AGES! Thanks greg!
+
+Aztec (of PSC), for 'lending' me his php Message Board.
+
+Jarrad Collums (of PSC), for 'lending' me his perl quiz script.
+
+Egi (of PSC), for the nice ASP poll script (proving to me that my webserver can use databases)(and proving to me that it doesn't support asp-redirection or asp-setcookies)
+
+Dax Ahweng, for sharing his perl upload file code, enabling me to figure out something I forgot in the '<FORM>' tag, saving 2-3 nights of hair pulling. (I'm not using his code, btw)
+
+Kaustav Acharya, for the asp guestbook.
+
+Steven E. Brenner, for cgi-lib.pl. the BEST perl script out there! (I use for recieving POST data and file uploads.
+
+Peter Sienkiewicz (of PSC), for showing me how php uses cookies.
+
+Every author of every code on PSC. I have no vb manuals, and when I choose 'help' from the menu, it tells me to insert a non-existant cd. (and i had to learn from somewhere)
+
+Everybody who votes for this code.
+
+Everybody who uses this code.
+
+Everybody who voted for the previous release:
+Custom Made Programs
+hacker_mark14
+cbudd
+Thnder
+Davy Goessens
+dswatik
+cxzuk
+dA riPpA!
+lyceria
+webmaster
+Bram
+Biggt
+John Zappone
+deese1
+hacker_extraordinaire
+nurosoft
+ricardo arias
+dbykowski
+scott
+shreedharg
+Jean Nuñez
+tlslegacy
+a_jardon
+schatn
+SHKBOBO
+swthin
+snowboardr
+eldut
+Cypher
+bguenthner
+Austin Agarwal
+LOOKNAO
+zotteke123
+kuikak
+Timothy Marin
+flypig00000
+backupsworld
+knuckles359
+predator2187
+Eurisco
+nexumtheking
+nburton
+Coite Moss
+
+Thanks guys!
+
+Ashley

@@ -1,0 +1,373 @@
+<!-- ## GBDATA ## --><!-- Begin record --><!--Name:Ashley Harris -->
+<TABLE BORDER='0' ALIGN='CENTER' WIDTH='600' CELLPADDING='0'>
+	<TR>
+		<TD WIDTH='70' BGCOLOR='#003366'>
+			<FONT SIZE=2 FACE='ARIAL' COLOR='#FFFFFF'>
+				<B>Date:</B>
+			</FONT>
+		</TD>
+	<TD BGCOLOR='#B8D9FE'>
+		<FONT SIZE=2 FACE='ARIAL' COLOR='#000066'>4/30/02 8:00:30 PM</FONT>
+	</TD>
+	</TR>
+
+	<TR>
+		<TD WIDTH='70' BGCOLOR='#003366'>
+			<FONT SIZE=2 FACE='ARIAL' COLOR='#FFFFFF'>
+				<B>Name:</B>
+			</FONT>
+		</TD>
+	<TD BGCOLOR='#B8D9FE'>
+		<FONT SIZE=2 FACE='ARIAL' COLOR='#000066'>Ashley Harris</FONT>
+	</TD>
+	</TR>
+
+	<TR>
+		<TD WIDTH='70' BGCOLOR='#003366'>
+			<FONT SIZE=2 FACE='ARIAL' COLOR='#FFFFFF'>
+				<B>Email:</B>
+			</FONT>
+		</TD>
+		<TD BGCOLOR='#B8D9FE'>
+			<A HREF='mailto:ashley___harris@hotmail.com'>
+				<FONT SIZE=2 FACE='ARIAL'>ashley___harris@hotmail.com</FONT>
+			</A>
+		</TD>
+	</TR>
+
+	<TR>
+		<TD COLSPAN=2 BGCOLOR='#003366'>
+			<DIV align='center'>
+				<FONT SIZE='2' FACE='ARIAL' COLOR='#FFFFFF'>
+					<B>Comments:</B>
+				</FONT>
+			</DIV>
+		</TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=2 BGCOLOR='#B8D9FE'>
+			<FONT SIZE='2' FACE='ARIAL' COLOR='#000066'>THIS IS COOL!!!!!!!!!</FONT>
+		</TD>
+	</TR>
+</TABLE>
+<BR>
+<!-- End record. name:Ashley Harris -->
+<HR COLOR='#f0f0f0' width='640'>
+<!-- Begin record --><!--Name:Ashley Harris -->
+<TABLE BORDER='0' ALIGN='CENTER' WIDTH='600' CELLPADDING='0'>
+	<TR>
+		<TD WIDTH='70' BGCOLOR='#003366'>
+			<FONT SIZE=2 FACE='ARIAL' COLOR='#FFFFFF'>
+				<B>Date:</B>
+			</FONT>
+		</TD>
+	<TD BGCOLOR='#B8D9FE'>
+		<FONT SIZE=2 FACE='ARIAL' COLOR='#000066'>4/30/02 8:00:07 PM</FONT>
+	</TD>
+	</TR>
+
+	<TR>
+		<TD WIDTH='70' BGCOLOR='#003366'>
+			<FONT SIZE=2 FACE='ARIAL' COLOR='#FFFFFF'>
+				<B>Name:</B>
+			</FONT>
+		</TD>
+	<TD BGCOLOR='#B8D9FE'>
+		<FONT SIZE=2 FACE='ARIAL' COLOR='#000066'>Ashley Harris</FONT>
+	</TD>
+	</TR>
+
+	<TR>
+		<TD WIDTH='70' BGCOLOR='#003366'>
+			<FONT SIZE=2 FACE='ARIAL' COLOR='#FFFFFF'>
+				<B>Email:</B>
+			</FONT>
+		</TD>
+		<TD BGCOLOR='#B8D9FE'>
+			<A HREF='mailto:ashley___harris@hotmail.com'>
+				<FONT SIZE=2 FACE='ARIAL'>ashley___harris@hotmail.com</FONT>
+			</A>
+		</TD>
+	</TR>
+
+	<TR>
+		<TD COLSPAN=2 BGCOLOR='#003366'>
+			<DIV align='center'>
+				<FONT SIZE='2' FACE='ARIAL' COLOR='#FFFFFF'>
+					<B>Comments:</B>
+				</FONT>
+			</DIV>
+		</TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=2 BGCOLOR='#B8D9FE'>
+			<FONT SIZE='2' FACE='ARIAL' COLOR='#000066'>THIS IS COOL!!!!!!!!!</FONT>
+		</TD>
+	</TR>
+</TABLE>
+<BR>
+<!-- End record. name:Ashley Harris -->
+<HR COLOR='#f0f0f0' width='640'>
+<!-- Begin record --><!--Name:Ashley -->
+<TABLE BORDER='0' ALIGN='CENTER' WIDTH='600' CELLPADDING='0'>
+	<TR>
+		<TD WIDTH='70' BGCOLOR='#003366'>
+			<FONT SIZE=2 FACE='ARIAL' COLOR='#FFFFFF'>
+				<B>Date:</B>
+			</FONT>
+		</TD>
+	<TD BGCOLOR='#B8D9FE'>
+		<FONT SIZE=2 FACE='ARIAL' COLOR='#000066'>4/29/02 3:12:28 PM</FONT>
+	</TD>
+	</TR>
+
+	<TR>
+		<TD WIDTH='70' BGCOLOR='#003366'>
+			<FONT SIZE=2 FACE='ARIAL' COLOR='#FFFFFF'>
+				<B>Name:</B>
+			</FONT>
+		</TD>
+	<TD BGCOLOR='#B8D9FE'>
+		<FONT SIZE=2 FACE='ARIAL' COLOR='#000066'>Ashley</FONT>
+	</TD>
+	</TR>
+
+
+	<TR>
+		<TD COLSPAN=2 BGCOLOR='#003366'>
+			<DIV align='center'>
+				<FONT SIZE='2' FACE='ARIAL' COLOR='#FFFFFF'>
+					<B>Comments:</B>
+				</FONT>
+			</DIV>
+		</TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=2 BGCOLOR='#B8D9FE'>
+			<FONT SIZE='2' FACE='ARIAL' COLOR='#000066'>COOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOL!</FONT>
+		</TD>
+	</TR>
+</TABLE>
+<BR>
+<!-- End record. name:Ashley -->
+<HR COLOR='#f0f0f0' width='640'>
+<!-- Begin record --><!--Name:Ashley Harris -->
+<TABLE BORDER='0' ALIGN='CENTER' WIDTH='600' CELLPADDING='0'>
+	<TR>
+		<TD WIDTH='70' BGCOLOR='#003366'>
+			<FONT SIZE=2 FACE='ARIAL' COLOR='#FFFFFF'>
+				<B>Date:</B>
+			</FONT>
+		</TD>
+	<TD BGCOLOR='#B8D9FE'>
+		<FONT SIZE=2 FACE='ARIAL' COLOR='#000066'>4/29/02 1:48:12 PM</FONT>
+	</TD>
+	</TR>
+
+	<TR>
+		<TD WIDTH='70' BGCOLOR='#003366'>
+			<FONT SIZE=2 FACE='ARIAL' COLOR='#FFFFFF'>
+				<B>Name:</B>
+			</FONT>
+		</TD>
+	<TD BGCOLOR='#B8D9FE'>
+		<FONT SIZE=2 FACE='ARIAL' COLOR='#000066'>Ashley Harris</FONT>
+	</TD>
+	</TR>
+
+	<TR>
+		<TD WIDTH='70' BGCOLOR='#003366'>
+			<FONT SIZE=2 FACE='ARIAL' COLOR='#FFFFFF'>
+				<B>Email:</B>
+			</FONT>
+		</TD>
+		<TD BGCOLOR='#B8D9FE'>
+			<A HREF='mailto:ashley___harris@hotmail.com'>
+				<FONT SIZE=2 FACE='ARIAL'>ashley___harris@hotmail.com</FONT>
+			</A>
+		</TD>
+	</TR>
+
+	<TR>
+		<TD COLSPAN=2 BGCOLOR='#003366'>
+			<DIV align='center'>
+				<FONT SIZE='2' FACE='ARIAL' COLOR='#FFFFFF'>
+					<B>Comments:</B>
+				</FONT>
+			</DIV>
+		</TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=2 BGCOLOR='#B8D9FE'>
+			<FONT SIZE='2' FACE='ARIAL' COLOR='#000066'>I'm submiting a form to ASP via post from mac ie5</FONT>
+		</TD>
+	</TR>
+</TABLE>
+<BR>
+<!-- End record. name:Ashley Harris -->
+<HR COLOR='#f0f0f0' width='640'>
+<!-- Begin record --><!--Name:Ashley Harris -->
+<TABLE BORDER='0' ALIGN='CENTER' WIDTH='600' CELLPADDING='0'>
+	<TR>
+		<TD WIDTH='70' BGCOLOR='#003366'>
+			<FONT SIZE=2 FACE='ARIAL' COLOR='#FFFFFF'>
+				<B>Date:</B>
+			</FONT>
+		</TD>
+	<TD BGCOLOR='#B8D9FE'>
+		<FONT SIZE=2 FACE='ARIAL' COLOR='#000066'>4/28/02 11:23:17 PM</FONT>
+	</TD>
+	</TR>
+
+	<TR>
+		<TD WIDTH='70' BGCOLOR='#003366'>
+			<FONT SIZE=2 FACE='ARIAL' COLOR='#FFFFFF'>
+				<B>Name:</B>
+			</FONT>
+		</TD>
+	<TD BGCOLOR='#B8D9FE'>
+		<FONT SIZE=2 FACE='ARIAL' COLOR='#000066'>Ashley Harris</FONT>
+	</TD>
+	</TR>
+
+	<TR>
+		<TD WIDTH='70' BGCOLOR='#003366'>
+			<FONT SIZE=2 FACE='ARIAL' COLOR='#FFFFFF'>
+				<B>Email:</B>
+			</FONT>
+		</TD>
+		<TD BGCOLOR='#B8D9FE'>
+			<A HREF='mailto:ashley___harris@hotmail.com'>
+				<FONT SIZE=2 FACE='ARIAL'>ashley___harris@hotmail.com</FONT>
+			</A>
+		</TD>
+	</TR>
+
+	<TR>
+		<TD COLSPAN=2 BGCOLOR='#003366'>
+			<DIV align='center'>
+				<FONT SIZE='2' FACE='ARIAL' COLOR='#FFFFFF'>
+					<B>Comments:</B>
+				</FONT>
+			</DIV>
+		</TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=2 BGCOLOR='#B8D9FE'>
+			<FONT SIZE='2' FACE='ARIAL' COLOR='#000066'>Does ASP support work on ashleys webserver 1.2?</FONT>
+		</TD>
+	</TR>
+</TABLE>
+<BR>
+<!-- End record. name:Ashley Harris -->
+<HR COLOR='#f0f0f0' width='640'>
+<!-- Begin record --><!--Name:Mr. Bond -->
+<TABLE BORDER='0' ALIGN='CENTER' WIDTH='600' CELLPADDING='0'>
+	<TR>
+		<TD WIDTH='70' BGCOLOR='#003366'>
+			<FONT SIZE=2 FACE='ARIAL' COLOR='#FFFFFF'>
+				<B>Date:</B>
+			</FONT>
+		</TD>
+	<TD BGCOLOR='#B8D9FE'>
+		<FONT SIZE=2 FACE='ARIAL' COLOR='#000066'>1/14/01 5:04:43 PM</FONT>
+	</TD>
+	</TR>
+
+	<TR>
+		<TD WIDTH='70' BGCOLOR='#003366'>
+			<FONT SIZE=2 FACE='ARIAL' COLOR='#FFFFFF'>
+				<B>Name:</B>
+			</FONT>
+		</TD>
+	<TD BGCOLOR='#B8D9FE'>
+		<FONT SIZE=2 FACE='ARIAL' COLOR='#000066'>Mr. Bond</FONT>
+	</TD>
+	</TR>
+
+
+	<TR>
+		<TD COLSPAN=2 BGCOLOR='#003366'>
+			<DIV align='center'>
+				<FONT SIZE='2' FACE='ARIAL' COLOR='#FFFFFF'>
+					<B>Comments:</B>
+				</FONT>
+			</DIV>
+		</TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=2 BGCOLOR='#B8D9FE'>
+			<FONT SIZE='2' FACE='ARIAL' COLOR='#000066'>The West Rose Window glorifies the Virgin Mary whose appears as a statue right below it. Finally, the Galley of the Kings are placed around the entire cathedral, look proudly onto the crowds below; the Galley consists of the rulers of France, past and present (at time of construction). <br>Notre Dame de Paris, more than seven hundred years old, is only the most recent of holy houses to occupy the ancient sacred ground of Amiens. In the early years of Christianity, Childebert, King of Cologne at the time, constructed a basilica dedicated to St. Etienne around 528. A church in the Romanesque manner replaced the basilica, and this stood until 1163. This period witnessed Paris coming into its own force as a center of political power and commerce. King Louis VII rests comfortably among the handful of <br>Acharya 2<br>influential figures during the rise of the Gothic style in France. At the Abby of Saint-Denis, the sparks of inspiration kindled, which would ignite the fires of the cathedral building age. Twenty years later, the king lent this same support to the construction </FONT>
+		</TD>
+	</TR>
+</TABLE>
+<BR>
+<!-- End record. name:Mr. Bond -->
+<HR COLOR='#f0f0f0' width='640'>
+<!-- Begin record --><!--Name:Kaustav -->
+<TABLE BORDER='0' ALIGN='CENTER' WIDTH='600' CELLPADDING='0'>
+	<TR>
+		<TD WIDTH='70' BGCOLOR='#003366'>
+			<FONT SIZE=2 FACE='ARIAL' COLOR='#FFFFFF'>
+				<B>Date:</B>
+			</FONT>
+		</TD>
+	<TD BGCOLOR='#B8D9FE'>
+		<FONT SIZE=2 FACE='ARIAL' COLOR='#000066'>1/14/01 5:03:47 PM</FONT>
+	</TD>
+	</TR>
+
+	<TR>
+		<TD WIDTH='70' BGCOLOR='#003366'>
+			<FONT SIZE=2 FACE='ARIAL' COLOR='#FFFFFF'>
+				<B>Name:</B>
+			</FONT>
+		</TD>
+	<TD BGCOLOR='#B8D9FE'>
+		<FONT SIZE=2 FACE='ARIAL' COLOR='#000066'>Kaustav</FONT>
+	</TD>
+	</TR>
+
+	<TR>
+		<TD WIDTH='70' BGCOLOR='#003366'>
+			<FONT SIZE=2 FACE='ARIAL' COLOR='#FFFFFF'>
+				<B>Email:</B>
+			</FONT>
+		</TD>
+		<TD BGCOLOR='#B8D9FE'>
+			<A HREF='mailto:excalibur@palebluedot.net'>
+				<FONT SIZE=2 FACE='ARIAL'>excalibur@palebluedot.net</FONT>
+			</A>
+		</TD>
+	</TR>
+
+	<TR>
+		<TD WIDTH='70' BGCOLOR='#003366'>
+			<FONT SIZE=2 FACE='ARIAL' COLOR='#FFFFFF'>
+				<B>Own Url:</B>
+			</FONT>
+		</TD>
+		<TD BGCOLOR='#B8D9FE'>
+			<A HREF='http://www.angelfire.com/biz6/infinityprod'>
+				<FONT SIZE='2' FACE='ARIAL'>www.angelfire.com/biz6/infinityprod</FONT>
+			</A>
+		</TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=2 BGCOLOR='#003366'>
+			<DIV align='center'>
+				<FONT SIZE='2' FACE='ARIAL' COLOR='#FFFFFF'>
+					<B>Comments:</B>
+				</FONT>
+			</DIV>
+		</TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=2 BGCOLOR='#B8D9FE'>
+			<FONT SIZE='2' FACE='ARIAL' COLOR='#000066'>The Notre Dame de Paris was constructed in Amiens, France during the late 12th Century, but completed much later due to lack of monetary support.  However, when completed, the cathedral towers a great 139ft above the ground and 148ft wide. When glancing up, the enormous glass pane springs into view. This glass, or in fact numerous pieces of thick glass, embrace the cathedral’s top. These pieces of glass make up the roof of the Notre Dame de Paris.  On the western end of the cathedral, the West Fa&#231;ade remains as the eye catcher for tourists and historians alike. The West towers have their unique square shade because of a halt on the original design. </FONT>
+		</TD>
+	</TR>
+</TABLE>
+<BR>
+<!-- End record. name:Kaustav -->
+<HR COLOR='#f0f0f0' width='640'>

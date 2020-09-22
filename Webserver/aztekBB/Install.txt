@@ -1,0 +1,4 @@
+1. Unzip all these files into a directory on your host computer.
+2. Modify the conf/board.conf.php file to fit your needs.
+3. Modify the conf/moderate.conf.php file to add or change admin passwords.
+4. Modify the conf/theme.conf.php file to fit the design and colors of you homepage

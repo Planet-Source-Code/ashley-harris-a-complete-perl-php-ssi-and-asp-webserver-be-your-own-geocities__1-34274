@@ -1,0 +1,16 @@
+REM just add the following line to the bottom of C:\autoexec.bat.
+REM it enables perl to be called automaticly to execute cgi-scripts
+
+
+PATH = "%PATH%;C:/PERL/BIN"
+
+
+REM add the following line to the bottom of C:\autoexec.bat
+REM it enables what little PHP support we currently have.
+
+
+PATH = "%PATH%;C:\php\php-4.2.0-Win32"
+
+
+REM also note that you must restart after adding these. (there is 
+REM no work around to this, you MUST restart otherwise it wont work.

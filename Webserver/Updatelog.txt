@@ -1,0 +1,63 @@
+5/1/02
+- Concieved.
+
+6 to 9/1/02
+- Made working webserver (single connection, html/images only)
+
+10/1/02
+- Perl CGI-Support (no get or anything)
+- Multiple connections (hence images, flash, etc.)
+
+13/1/02
+- GET support
+- IP address given to perl cgi.
+- support for non-image media.
+- RELEASE 1.0
+
+25/2/02
+- More $ENV variables for perl (but all useless ones, like port, etc. (headers weren't parsed, ie no referer, no accept, no language, etc.)
+- Directory listings
+- /../ protection
+- Customer 404 pages
+- RELEASE 1.1 (got 40 excelent votes on PSC)
+
+14/3/02
+- Access DB logging.
+
+15/3/02
+- started parsing header. Perl-cgi now gets full information. (ie cookies, referer)
+- Made it a little more memory friendly with recycled winsocks.
+- streaming support
+
+20/4/02
+- POST support
+- REDIRECT support
+
+22/4/02
+- RESUME DOWNLOAD SUPPORT
+
+23/4/02
+- SSI support (basic (include and var))
+- UPLOAD support
+- Attempted ASP support (failed dismaly)
+
+24/4/02
+- Added BASIC .php support (run only, no GET no POST no headers or anything)
+
+25/4/02
+- Add GET/POST support for PHP.
+- Fixed a bug between SSI and ranged downloads (SSI was being performed midway through ranged download calculation, hence data was being lost)
+- Now removes temp.pl and temp.php scripts when done.
+
+26/4/02
+- Cookie support for PHP
+- Support for Lynx (linux console web browser), is really page dependant.
+
+27/4/02
+- Fixed bug with POST from mac IE. (ie. made more http/1.1 complient) (It  was splitting headers and post data into 2 packets)
+- Added support for PATH_INFO (perl) ie "/cgi-bin/script.cgi/moredata" works!
+
+28/4/02
+- Added alpha version of sendmail. You can now email from perl-cgi scripts by changing only 1 line of code from a working-on-linux version. (has absolutely no error handling code, so get it right!)
+- fixed ANOTHER bug with POST and mac IE (IE was splitting requests in the middle of the header)
+- ASP SUPPORT!!!!! GET and POST!!!! (well, it's preatty bugy, since non-core vbscript functions and objects you have to create yourself!) (thanks to Mike Doonan for getting me started, it's his code).

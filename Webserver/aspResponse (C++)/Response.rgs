@@ -1,0 +1,26 @@
+HKCR
+{
+	MyASP.Response.1 = s 'Response Class'
+	{
+		CLSID = s '{A1D85791-663F-45A6-B5CB-988193F60F15}'
+	}
+	MyASP.Response = s 'Response Class'
+	{
+		CLSID = s '{A1D85791-663F-45A6-B5CB-988193F60F15}'
+		CurVer = s 'MyASP.Response.1'
+	}
+	NoRemove CLSID
+	{
+		ForceRemove {A1D85791-663F-45A6-B5CB-988193F60F15} = s 'Response Class'
+		{
+			ProgID = s 'MyASP.Response.1'
+			VersionIndependentProgID = s 'MyASP.Response'
+			ForceRemove 'Programmable'
+			InprocServer32 = s '%MODULE%'
+			{
+				val ThreadingModel = s 'Apartment'
+			}
+			'TypeLib' = s '{A9B6A858-B7D1-49A3-A7CF-DAF0E612470A}'
+		}
+	}
+}

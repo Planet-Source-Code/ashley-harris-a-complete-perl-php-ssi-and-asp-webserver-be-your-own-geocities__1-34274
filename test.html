@@ -1,0 +1,64 @@
+<html>
+<body>
+<TABLE width=100%><tr><td valing=top>
+<SCRIPT>
+if (document.location.host != "")
+{
+ document.write("IT WORKED! This is the &quot;test.html&quot; file in the webserver directory! YOUR webserver.");
+}
+else
+{
+ document.write("Try running the webserver, and going to <A HREF=\"http://127.0.0.1/\">http://127.0.0.1/</A>")
+}
+</SCRIPT><P>
+
+<b>Features</b>:
+<ul>
+<li>Multiple silmultanius connections
+<li><A HREF="envtest.pl">PERL CGI</A> AND <A HREF="aztekBB/index.php">PHP</A> AND <A HREF="aspguestbook/index.asp">ASP</A>
+<li>FORM POSTING (<A HREF="lovecalc.cgi">GET</A>/<A HREF="posttest.cgi">POST</A>)
+<li><A HREF="theoven.cgi">COOKIES! (Now MANY!)</A>
+<li><A HREF="thisdoesntexist.html">Custom 404 pages</A>
+<li>Directory listings
+<li>RESUME DOWNLOADS! (Add a huge file to the webserver folder and download in a download manager...)
+<li><A HREF="ssitest.html">SERVER SIDE INCLUDES!</A>
+<li>STREAMING SUPPORT! (throttle)
+<li>REDIRECTION! (check out index.html.redirect)
+<li><A HREF="uploadtest.cgi">FILE UPLOADING</A>
+<li>Ability to pause webserver temporarily for updates (clients are informed (and kept updated))
+<li>Cgi can write javascript! ie there have been <SCRIPT src="counter.cgi"></SCRIPT> Hits on this page!
+<li>HTML, <A HREF="testflash.swf">Flash</A>, <A HREF="test.jpg">I</A><A HREF="test.png">m</A><A HREF="test.gif">a</A><A HREF="test2.gif">ges</A>, Downloads, Realmedia, office, Mp3's, ANYTHING!
+<li>Logging in access db
+<li>CGI gets client referer, language, accept, Ip, port, docroot, query string, cookies etc.
+<LI>CGI isn't just about writing HTML! IT CAN WRITE PICTURES!!!! ie <A HREF="graphicalcounter/cnt-1.0.pl/index.gif?red"><IMG src="graphicalcounter/cnt-1.0.pl/index.gif?red"></A>
+<LI><A HREF="feedback.cgi">CGI SCRIPTS CAN SEND EMAIL</A>!!! (allmost the same as on linux)
+</ul><P>
+
+Check out <A HREF="aztekBB/index.php">AztezBB</A>, I picked it out from PlanetSourceCode under the php section. It's what I'm using as a base to add php support from (It's the first php script I've seen in my life). Check it out!<P>
+
+Check out <A HREf="quiz/quiz.htm">Jarad Collums's Acronym Quiz</A> (Off PSC). Just to prove that external perl scripts work. Basicly it asks you 20 questions like what is RAM, and has a perl script grade you. preatty cool. (I got 100%! <IMG src="/aztekBB/smilies/coool.gif">)<P>
+
+Check out Kaustav Acharya's <A HREF="aspguestbook/index.asp">Pure Speed Guestbook</A> (Off Psc), what I used to add asp support to this webserver and learning asp in general. Also rather cool.<P>
+
+Check out <A HREF="asppoll/poll.asp">EZ Poll</A> Used as a base for advanced ASP functions (I've had to comment out the set-cookie and redirct code, and I can't edit the poll (no M$ access 2000), but you may get some use out of it.<P>
+
+Check out <A HREF="cgi-bin/pandaemail/viewmail.pl">Panda email</A> I picked a random cgi-script of sourceforge.com, just to see if it worked (I can't get it to work, no POP3 account, but you might). Basicly to prove that you dont need to modify external cgi-scripts to get them to work.<P>
+
+<form method="POST" action="http://www.planet-source-code.com/vb/scripts/voting/VoteOnCodeRating.asp?lngWId=1">
+<input type="hidden" name="optCodeRatingValue" value="5">
+<input type="hidden" name="txtCodeId" value="34274">
+If you think this webserver is cool, <input type="submit" value="VOTE FOR IT!" name="cmdRateIt"> (Please, I think this code is worth code of the month, but I need your help.)
+</FORM><P>
+
+If your extreamly mean and dont want to vote for it, check out my sendmail demonstration and send me some <A HREF="feedback.cgi">FEEDBACK</A>!<P>
+
+</td><td valign=top>
+
+<CENTER><IMG src="/logo.png" alt="Ashleys Webserver 1.2"></CENTER><P>
+<CENTER><IMG src="/php.gif" alt="SUPPORTS PHP!"></CENTER><P>
+<CENTER><IMG src="/perl.png" alt="SUPPOTS PERL!"></CENTER><P>
+<CENTER><IMG src="/asp.png" alt="SUPPOTS ASP!"></CENTER><P>
+</td></tr></table>
+
+</body>
+</html>

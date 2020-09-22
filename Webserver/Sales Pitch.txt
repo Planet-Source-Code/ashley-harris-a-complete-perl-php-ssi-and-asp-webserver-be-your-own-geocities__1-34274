@@ -1,0 +1,35 @@
+A complete PERL, ASP and PHP webserver
+
+Several webservers here support CGI. but this is the ONLY one that supports FORM POSTING (get/POST), REDIRECTION!, FILE UPLOADING!, COOKIES!, RESUME DOWNLOADS!, STREAMING SUPPORT! SERVER SIDE INCLUDES! SENDMAIL! PERL! PHP! ASP!. Plus the usual webserver features (multiple silmultanious connections, images, flash, pdf, audio, movies, directory browsing (with simple filters), html files, 404 pages, pause feature, javascript!, etc) If a website works on apache (or anything less), 95% of the time it'll work on this without any modifications! (no .htaccess, sendmail in diff place and rather basic, diff filesystem, a LOT of ASP functionality missing)<P>
+
+You can build scripts that work with basic customer information (You use Windows98 with Ie6 and are in Australia, your ip adress is 221.53.23.122, you were just at http://www.planetsourcecode.com, speak english, you are connecting my port 80 with your port 1765, you have been here 5 times before.)<P>
+
+You can bake some cookies to help identify your visitors (see theoven.cgi inc.)<P>
+
+You can submit forms to be processsed! The FIRST and ONLY PSC webserver to allow this! but thats old news (Jan-13-2002).<P>
+
+You can POST large forms to perl/php/asp scripts (without changing your scripts whatsoever). no more cluttering up the address bar!<P>
+
+You FINALLY have a webserver that supports resume downloads, you can now share your huge files with the rest of the world without them having to start from scratch each time someone picks up the phone. (less megabytes going in/out of server, less angry customers)<P>
+
+You can send mail from cgi scripts! and without an smtp server (yes, demonstrates mx lookup). scripts designed to run using the linux sendmail can be converted by changing only ONE line of code. ('| /usr/lib/sendmail -t -oi' -> '>C:\\sendmail'). See feedback.cgi for an example.<P>
+
+Streaming support allows you to preview your media (flash, audio, etc.) from the modem users point of view, even from your own computer (ie 127.0.0.1/testflash.swf), or to cap downloads from high speed users, preventing them 'choking' you.<P>
+
+Also, we now have PHP! YES! check out the message board php script enclosed! (no file uploading for php (yet)). Preatty good considering I don't know PHP!<P>
+
+Also, we now have ASP! check out the guestbook I got of psc! You can POST/GET forms to ASP scripts (no SET cookies, scripted redirection, or file upload yet for ASP (yet)). 4 hours ago I'd never even seen ASP code in my life! (due to the nature of the ASP implmentation, you may have to write portions of the language for yourself.)<P>
+
+You finally have a webserver that supports the 3 main cgi languages. (I don't think any other server in the world (Opensource or otherwise) does this, but I may be wrong). It'll be much easier to hire web programmers, you can get scripts in any language simply place them in your website folder, and they'll run!<P>
+
+PLEASE PLEASE PLEASE USE IT! (dust collecting in download folder doesn't count). If you use it as the server of your billion-dollar business, please tell me, as my resume is in need of some killer points. also, If you don't have a billion-dollar business at hand, please vote for it! As I belive this is worth code of the month! (This code is easily 150 hours work (and at my RAC rates, that'd be $1500, your getting it for free!!!!!!)<P>
+
+(Code is made in and for vb6, can be compatible with vb5 if you get some functions from psc)<P>
+
+Code is well commented to allow easy understanding and simple additions to suite your needs, the possibilitys are ENDLESS!<P>
+
+Comes with over 150kb worth of example scripts (PERL, ASP, PHP, HTML, JS, SSI), most downloaded strait from the internet and intended for either Linux/Apache or IIS!
+
+You need something that can run perl scripts! I use activeperl from activestate.com. Also, if you want to use PHP, You need the windows package from php.net (both packages are several mb each). Everything to run ASP scripts (aspresponse.dll and msscript.ocx) is included.<P>
+
+Ashley
